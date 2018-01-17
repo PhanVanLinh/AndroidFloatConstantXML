@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="my_dimen_float_value" type="dimen" format="float">0.1</item>
+
+    <item name="my_integer_float_value" type="integer" format="float">0.5</item>
+
+</resources>
